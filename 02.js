@@ -6,6 +6,7 @@
 // Return the average score in [brackets], followed by a space and asterisks' * to represent
 // the star rating, rounded to the nearest whole star.
 
+
 let array = [55, 67, 98, 115, 61];
 
 function starRating(arr){

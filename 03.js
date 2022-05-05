@@ -14,6 +14,7 @@ user = {
     age: 19,
     scores: { english: 10, math: 19.5, physics: 14 },
     };
+    
 
 // ● / Function that add a new course score and return the new user object (dynamic
 // argument)
